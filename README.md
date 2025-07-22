@@ -60,15 +60,3 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Athayna&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Athayna&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Athayna&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Athayna&theme=radical&no-frame=false&no-bg=false&margin-w=4)
