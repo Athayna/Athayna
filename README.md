@@ -1,6 +1,6 @@
 ## Hi, I am Alexandra 👋
 
-- I am currently studying Media Computer Science at the Hochschule RheinMain and work as a software developer at ekkodale GmbH
+- I am currently studying for my Master’s in Media Computer Science at Hochschule RheinMain and working as a software developer at ekkodale GmbH
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Athayna&color=ffbdc7" alt="Athayna" /> </p>
 
