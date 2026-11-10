@@ -1,6 +1,6 @@
 ## Hi, I am Alexandra 👋
 
-- I am currently studying for my Master’s in Media Computer Science at Hochschule RheinMain and work as a Research Assistant in the [Computer Vision & Mixed Reality Group](https://cvmr.info/)
+- I am currently studying for my Master’s in Media Computer Science at Hochschule RheinMain and work as a Student Assistant in the [Computer Vision & Mixed Reality Group](https://cvmr.info/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Athayna&color=ffbdc7" alt="Athayna" /> </p>
 
